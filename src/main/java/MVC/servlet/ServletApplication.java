@@ -11,6 +11,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 public class ServletApplication {
 
 	public static void main(String[] args) {
+		//test branch1
 		SpringApplication.run(ServletApplication.class, args);
 	}
 
