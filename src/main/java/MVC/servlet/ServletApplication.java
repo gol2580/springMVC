@@ -12,6 +12,7 @@ public class ServletApplication {
 
 	public static void main(String[] args) {
 		//test branch1
+		//test 2
 		SpringApplication.run(ServletApplication.class, args);
 	}
 
